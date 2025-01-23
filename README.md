@@ -10,7 +10,7 @@ The folders include codes used during the production of the manuscript.
 ## Usage
 - Load src data\*.csv files  into your MATLAB workspace and use main_1.m or main_2.m to generate corresponding figures.
 - For running MATLAB scripts, the entire **`utils`** folder should be added to your MATLAB path.
-- dPCA and other analyses on neural data are done in Jupyter Notebooks (Fig 5 & 6), **`utils\myDPCA`** is a customized package, copy the folder to your own directory.
+- dPCA and other analyses on neural data are done in Jupyter Notebooks (Fig 6 & 7), **`utils\myDPCA`** is a customized package, copy the folder to your own directory.
 
 
 ## NOTE
