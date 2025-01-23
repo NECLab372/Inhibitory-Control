@@ -1,6 +1,6 @@
 # Liu_et_al_2024
 ## About
-The folders include codes used during the production of the manuscript.
+The folders include codes and source data used during the production of the manuscript.
 
 ## System Requirements
 - Windows 10 and above (not yet tested with macOS)
